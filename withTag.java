@@ -1,6 +1,0 @@
-/**
- * withTag
- */
-public class withTag {
-
-}
